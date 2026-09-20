@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Surbhi 👋
 
-<!--
-**SurbhiS6/SurbhiS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & ML Professional | Analytics | AI
 
-Here are some ideas to get you started:
+Data & ML professional focused on product analytics, predictive modelling, 
+and AI-driven solutions for customer and business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python | SQL | DAX
+- Machine Learning | Predictive Modelling
+- Power BI | Tableau | Looker
+- Product & Customer Analytics
+- A/B Testing | Cohort Analysis | Segmentation
+
+### 🚀 Featured Projects
+
+🎬 **[Movie Recommender System](YOUR_GITHUB_LINK)**  
+Content-based movie recommendation system built with Python and Streamlit.
+
+💻 **[Laptop Price Predictor](YOUR_GITHUB_LINK)**  
+Machine learning application for predicting laptop prices based on specifications.
+
+📊 **[More Analytics Projects](YOUR_GITHUB_LINK)**  
+Explore my other data analytics, ML and product analytics projects.
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/analyticssurbhishukla/)
