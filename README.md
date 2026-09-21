@@ -2,7 +2,7 @@
 
 ### Data & ML Professional | Analytics | AI
 
-Data & ML professional focused on product analytics, predictive modelling, 
+Data & ML professional focused on analytics, predictive modelling, 
 and AI-driven solutions for customer and business problems.
 
 ### 🛠️ Skills
