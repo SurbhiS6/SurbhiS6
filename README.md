@@ -22,7 +22,10 @@ Content-based movie recommendation system built with Python and Streamlit.
 Machine learning application for predicting laptop prices based on specifications.
 
 📊 **[More Analytics Projects](YOUR_GITHUB_LINK)**  
-Explore my other data analytics, ML and product analytics projects.
+Explore my other data analytics, ML projects.
+- RFM
+- Churn Prediction
+- K Means Clustering
 
 ### 📫 Connect with me
 
