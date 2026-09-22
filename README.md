@@ -15,13 +15,13 @@ and AI-driven solutions for customer and business problems.
 
 ### 🚀 Featured Projects
 
-🎬 **[Movie Recommender System](YOUR_GITHUB_LINK)**  
+🎬 **[Movie Recommender System](https://github.com/SurbhiS6/movie-recommender-system)**  
 Content-based movie recommendation system built with Python and Streamlit.
 
-💻 **[Laptop Price Predictor](YOUR_GITHUB_LINK)**  
+💻 **[Laptop Price Predictor](https://github.com/SurbhiS6/laptop-price-predictor)**  
 Machine learning application for predicting laptop prices based on specifications.
 
-📊 **[More Analytics Projects](YOUR_GITHUB_LINK)**  
+📊 **[More Analytics Projects](https://github.com/SurbhiS6/Data-Analytics-Portfolio)**  
 Explore my other data analytics, ML projects.
 - RFM Analysis
 - Churn Prediction - Logistic Regression, Random Forest, XGBoost 
