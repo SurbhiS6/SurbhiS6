@@ -23,9 +23,9 @@ Machine learning application for predicting laptop prices based on specification
 
 📊 **[More Analytics Projects](YOUR_GITHUB_LINK)**  
 Explore my other data analytics, ML projects.
-- RFM
-- Churn Prediction
-- K Means Clustering
+- RFM Analysis
+- Churn Prediction - Logistic Regression, Random Forest, XGBoost 
+- Customer Segmentation - K Means Clustering
 
 ### 📫 Connect with me
 
